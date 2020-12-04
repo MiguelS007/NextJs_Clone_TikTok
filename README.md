@@ -9,10 +9,7 @@ Clone do TikTok com direito a darkmode. 😍
 
 ## Images
 
-![enter image description here](https://github.com/MiguelS007/Github-Clone/blob/main/src/assets/WhatsApp%20Image%202020-11-18%20at%2014.44.46.jpeg?raw=true)
-![enter image description here](https://github.com/MiguelS007/Github-Clone/blob/main/src/assets/WhatsApp%20Image%202020-11-18%20at%2014.45.29.jpeg?raw=true)
-![enter image description here](https://github.com/MiguelS007/Github-Clone/blob/main/src/assets/WhatsApp%20Image%202020-11-18%20at%2014.45.14.jpeg?raw=true)
-![enter image description here](https://github.com/MiguelS007/Github-Clone/blob/main/src/assets/WhatsApp%20Image%202020-11-18%20at%2014.45.42.jpeg?raw=true)
+![enter image description here](https://github.com/MiguelS007/NextJs_Clone_TikTok/blob/main/assets/Captura%20de%20tela%20de%202020-12-04%2010-25-51.png?raw=true)
 
 ## Participants
 
