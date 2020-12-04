@@ -1,5 +1,11 @@
+import Layout from '../components/Layout';
+
 function Index() {
-  return <h1>TikTok</h1>;
+  return (
+    <Layout>
+      TikTok
+    </Layout>
+  );
 };
 
 export default Index;
